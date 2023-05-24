@@ -357,6 +357,7 @@ body {
 .message {
     font: inherit;
     width: 100%;
+    max-width: 380px;
     height: 80px;
     background: #FAFBFC;
     border: 1px solid #DDD7DE;
